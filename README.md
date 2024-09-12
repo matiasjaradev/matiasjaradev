@@ -27,7 +27,10 @@ Mi meta es encontrar una carrera en **análisis de datos** o **desarrollo de sof
   - MySQL
   - MongoDb
 - **Análisis de Datos:**
-  - Python (Pandas, NumPy, Matplotlib), R, Excel
+  - Python (Pandas, NumPy, Matplotlib)
+  -  R
+  -  Excel
+  -  PoweBi
 - **Herramientas y Tecnologías:** 
   - Git
   - Docker
