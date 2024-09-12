@@ -30,7 +30,7 @@ Mi meta es encontrar una carrera en **análisis de datos** o **desarrollo de sof
   - Python (Pandas, NumPy, Matplotlib)
   -  R
   -  Excel
-  -  PoweBi
+  -  PowerBi
 - **Herramientas y Tecnologías:** 
   - Git
   - Docker
