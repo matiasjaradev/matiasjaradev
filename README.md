@@ -33,7 +33,8 @@ Explora mis proyectos en mi [portafolio web](https://matiasjara.dev), donde enco
 ## 📬 Conecta conmigo
 
 - 🌐 Web personal: [matiasjara.dev](https://matiasjara.dev)
-- 📷 Instagram/TikTok: [@matiasjaradev](https://www.instagram.com/matiasjaradev/)
+- 📷 Instagram: [@matiasjaradev](https://www.instagram.com/matiasjaradev/)
+- 🎶 TikTok: [@matiasjaradev](tiktok.com/@matiasjaradev)
 - 🎙️ Podcast: Plan c Podcast
 - 📺 YouTube: [Matías Jara Dev](https://www.youtube.com/@matiasjaradev)
 
