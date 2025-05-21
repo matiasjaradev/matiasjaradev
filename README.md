@@ -8,10 +8,10 @@ Hola, soy **Matías Jara**, desarrollador de software **Full Stack** con pasión
 
 ## 💼 Tech Stack
 
-- ⚙️ **Backend:** [Java (Spring Boot)](https://spring.io/projects/spring-boot), [Node.js](https://nodejs.org)  
-- 🎨 **Frontend:** [Angular](https://angular.io), HTML/CSS, [TypeScript](https://www.typescriptlang.org)  
-- 📱 **Mobile:** [Flutter](https://flutter.dev)  
-- ☁️ **Cloud:** [Azure](https://azure.microsoft.com) (en proceso de certificación)  
+- ⚙️ **Backend:** Java (Spring Boot), Node.js
+- 🎨 **Frontend:** Angular, React, HTML/CSS, TypeScript  
+- 📱 **Mobile:** Flutter  
+- ☁️ **Cloud:** Azure (en proceso de certificación)  
 - 🧪 **Próximamente:** Testing y Seguridad en APIs REST  
 
 ---
@@ -33,7 +33,7 @@ Explora mis proyectos en mi [portafolio web](https://matiasjara.dev), donde enco
 ## 📬 Conecta conmigo
 
 - 🌐 Web personal: [matiasjara.dev](https://matiasjara.dev)
-- 📷 Instagram/TikTok: [@matiasjara.dev](https://www.instagram.com/matiasjara.dev)
+- 📷 Instagram/TikTok: [@matiasjaradev](https://www.instagram.com/matiasjaradev/)
 - 🎙️ Podcast: Plan c Podcast
 - 📺 YouTube: [Matías Jara Dev](https://www.youtube.com/@matiasjaradev)
 
