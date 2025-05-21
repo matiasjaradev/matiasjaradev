@@ -2,7 +2,7 @@
 
 Hola, soy **Matías Jara**, desarrollador de software **Full Stack** con pasión por construir soluciones que combinan eficiencia, escalabilidad y una excelente experiencia de usuario.
 
-📍 Actualmente estoy trabajando como freelance en desarrollo móvil con [Flutter](https://flutter.dev), mientras me especializo en [Java](https://www.java.com) y me certiﬁco en [Cloud Computing con Azure](https://azure.microsoft.com), con la meta de combinar desarrollo y DevOps en el futuro.
+📍 Actualmente estoy trabajando como freelance en desarrollo móvil con **Flutter**, mientras me especializo en **Java** y me certiﬁco en **Cloud Computing con Azure**, con la meta de combinar desarrollo y DevOps en el futuro.
 
 ---
 
