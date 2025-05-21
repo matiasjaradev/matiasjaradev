@@ -26,7 +26,7 @@ Explora mis proyectos en mi [portafolio web](https://matiasjara.dev), donde enco
 
 - Mejorando habilidades en **DevOps y Cloud**
 - Integrando prácticas modernas de **testing y seguridad**
-- Construyendo una presencia digital con [YouTube](https://www.youtube.com/@matiasjaradev) y mi podcast Plan c Podcast sobre informática y desarrollo personal
+- Puedes revisar mi contenido en [YouTube](https://www.youtube.com/@matiasjaradev) y mi podcast Plan c Podcast sobre informática y desarrollo personal
 
 ---
 
