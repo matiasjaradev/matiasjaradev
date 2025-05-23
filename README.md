@@ -1,24 +1,19 @@
 # 💫 About Me:
 Hola, soy Matías Jara, desarrollador de software Full Stack con pasión por construir soluciones que combinan eficiencia, escalabilidad y una excelente experiencia de usuario.<br><br>📍 Actualmente estoy trabajando como freelance en desarrollo móvil con Flutter, mientras me especializo en Java y me certiﬁco en Cloud Computing con Azure, con la meta de combinar desarrollo y DevOps en el futuro.
 
+Puedes revisar todos mis proyectos en mi [portafolio web](https://matiasjara.dev), donde encontrarás apps, APIs y experimentos personales desarrollados con enfoque en arquitectura limpia, buenas prácticas y mejora continua.
+
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matiasjaradev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matias987) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@matiasjaradev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@matiasjaradev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engineer@matiasjara.dev) 
 
-## 📬 Conecta conmigo
-
+📬 Conecta conmigo
 - 🌐 Web personal: [matiasjara.dev](https://matiasjara.dev)
 - 📷 Instagram: [@matiasjaradev](https://www.instagram.com/matiasjaradev/)
 - 🎶 TikTok: [@matiasjaradev](https://www.tiktok.com/@matiasjaradev)
 - 🎙️ Podcast: Plan c Podcast
 - 📺 YouTube: [Matías Jara Dev](https://www.youtube.com/@matiasjaradev)
-
----
-
-## 🚀 Mis Proyectos
-
-Explora mis proyectos en mi [portafolio web](https://matiasjara.dev), donde encontrarás apps, APIs y experimentos personales desarrollados con enfoque en arquitectura limpia, buenas prácticas y mejora continua.
 
 ---
 
