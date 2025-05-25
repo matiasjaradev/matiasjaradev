@@ -29,9 +29,9 @@ Puedes revisar todos mis proyectos en mi [portafolio web](https://matiasjara.dev
 ----
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=matiasjara987&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=matiasjara987&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasjara987&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=matiasjaradev&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=matiasjaradev&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasjaradev&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=matiasjara987&theme=radical&no-frame=false&no-bg=false&margin-w=4)
